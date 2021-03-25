@@ -1,0 +1,6 @@
+**/__pycache__
+**/*.pyc
+**/.tags
+**/.tags.lock
+/build
+core.*
